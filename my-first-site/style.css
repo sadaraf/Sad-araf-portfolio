@@ -1,0 +1,12 @@
+body{font-family: 'Playfair Display', serif;}
+    h1{color: goldenrod;
+      font-size: 90px;}
+p{background-color: azure;
+color: black; font-size: 25px;}
+.about{width: 30%;
+       float: left;
+    margin-left: 5%;}
+.pic{width: 30%;float: left;
+size: 40%;
+margin-right: 5%;}
+.name{color:goldenrod; font-size: 30px;}
